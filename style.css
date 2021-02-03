@@ -40,3 +40,8 @@ p {
 .extra {
     border-bottom: 10px solid #bdc3c7;
 }
+
+#first {
+    border-bottom: 0px solid #bdc3c7;
+    
+}
